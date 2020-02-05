@@ -1,2 +1,2 @@
 
-xcopy include\Spectra %LIBRARY_PREFIX%\include\Spectra /s /f
+xcopy include\Spectra %LIBRARY_INC%\Spectra /s /i /y /f || exit 1
