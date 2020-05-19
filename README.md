@@ -3,7 +3,7 @@ About spectralib
 
 Home: https://spectralib.org/
 
-Package license: MPL2
+Package license: MPL-2.0
 
 Feedstock license: BSD 3-Clause
 
